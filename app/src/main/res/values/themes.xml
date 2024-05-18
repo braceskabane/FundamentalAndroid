@@ -1,0 +1,13 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.RestaurantReview" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tambahkan kustomisasi tema di sini jika diperlukan -->
+        <item name="android:statusBarColor">@color/highlightted</item>
+    </style>
+
+    <style name="Theme.RestaurantReview" parent="Base.Theme.RestaurantReview">
+        <!-- Tambahkan kustomisasi tema aplikasi Anda di sini jika diperlukan -->
+    </style>
+
+</resources>
