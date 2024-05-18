@@ -1,1 +1,1 @@
-![My Score](MyScore)
+![My Score](MyScore.png)
